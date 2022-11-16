@@ -1,4 +1,10 @@
-# Parallel and Distributed Computing Project
+Instituto Superior Técnico
+
+Master's Degree in Computer Science and Engineering
+
+Parallel and Distributed Computing 2021/2022
+
+# Parallel programing on shared-memory and distributed-memory systems.
 
 ## Authors
 
@@ -13,8 +19,6 @@
 ## Project Description
 
 The purpose of this class project is to give students hands-on experience in parallel programming on both shared-memory and distributed-memory systems, using OpenMP and MPI, respectively. For this assignment you are to write a sequential and two parallel implementations of a program to simulate an ecosystem with two species: the Iberian fox (Vulpes vulpes) and the Iberian rabbit (Oryctolagus cuniculus). The simulation takes place on a square grid containing cells. At the start, some of the cells are occupied by either a rabbit, a fox, or a rock, the rest are empty. The simulation consists of computing how the population evolves over discrete time steps (generations) according to certain rules described next.
-
-* [Project Statement](https://github.com/mafaldacf/IST-MEIC-CPD/blob/main/Statement.pdf)
 
 ## Part 1 - Serial implementation
 
